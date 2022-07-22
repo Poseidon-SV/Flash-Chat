@@ -1,16 +1,7 @@
-# flash_chat
+# Flash Chat
 
-A new Flutter project.
+This is a modern messaging app where users can sign up and log in to chat with other users.
 
-## Getting Started
+![Screenshot (1207)](https://user-images.githubusercontent.com/87477923/180459002-b9e9ff49-ce81-4711-8427-b55e9b0bc120.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot (1208)](https://user-images.githubusercontent.com/87477923/180459011-6994aa06-4430-4d36-93bb-288fb1781309.png)
